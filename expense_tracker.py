@@ -96,7 +96,7 @@ def main():
         elif choice == "4":
             category_summary(expenses)
         elif choice == "5":
-            print("Thanks for using the expense Trackers. Goodbye!")
+            print("Thanks for using the expense Tracker. Goodbye!")
             break
         else:
             print("Invalid choice. Please enter 1 to 5")
